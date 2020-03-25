@@ -1,10 +1,10 @@
-name: null
+name: C:\Users\Pranit\Desktop\sample_project_1\env
 channels:
   - defaults
 dependencies:
   - blas=1.0=mkl
   - ca-certificates=2020.1.1=0
-  - certifi=2019.11.28=py38_0
+  - certifi=2019.11.28=py38_1
   - cycler=0.10.0=py38_0
   - freetype=2.9.1=ha9979f8_1
   - icc_rt=2019.0.0=h0cc432a_1
@@ -22,7 +22,7 @@ dependencies:
   - mkl_random=1.1.0=py38hf9181ef_0
   - numpy=1.18.1=py38h93ca92e_0
   - numpy-base=1.18.1=py38hc3f5095_1
-  - openssl=1.1.1d=he774522_4
+  - openssl=1.1.1e=he774522_0
   - pandas=1.0.1=py38h47e9c7a_0
   - pip=20.0.2=py38_1
   - pyparsing=2.4.6=py_0
@@ -33,6 +33,7 @@ dependencies:
   - qt=5.9.7=vc14h73c81de_0
   - scikit-learn=0.22.1=py38h6288b17_0
   - scipy=1.4.1=py38h9439919_0
+  - seaborn=0.10.0=py_0
   - setuptools=46.0.0=py38_0
   - sip=4.19.13=py38ha925a31_0
   - six=1.14.0=py38_0
